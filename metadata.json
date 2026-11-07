@@ -1,0 +1,6 @@
+{
+  "name": "RailDrishti - India Live Train & PNR Tracker",
+  "description": "Live Indian Railways train tracking with interactive Google Maps, real-time GPS running status, PNR confirmation checker, full route schedules, seat availability and coach position locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
